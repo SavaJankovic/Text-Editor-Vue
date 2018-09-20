@@ -1,6 +1,6 @@
 # Run Project Commands
 
-Open Terminal and run
+Open Terminal and type
 
-npm install 
-npm run dev
+# npm install 
+# npm run dev
